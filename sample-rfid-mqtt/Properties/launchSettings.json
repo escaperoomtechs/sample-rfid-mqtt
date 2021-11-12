@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sample-rfid-mqtt": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost"
+    }
+  }
+}
